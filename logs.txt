@@ -1,0 +1,782 @@
+[2022-03-29 23:33:45]    
+
+Starting Server
+
+
+[2022-03-29 23:33:45] Initializing socket. Done.
+[2022-03-29 23:33:45] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:33:45] Server started successfully at [8080]
+[2022-03-29 23:33:48] Request received from: 127.0.0.1 at port: 64305
+[2022-03-29 23:33:48] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:33:48] HTTPS Connection request
+[2022-03-29 23:33:51] Request received from: 127.0.0.1 at port: 64307
+[2022-03-29 23:33:51] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:33:51] HTTPS Connection request
+[2022-03-29 23:33:52] Request received from: 127.0.0.1 at port: 64309
+[2022-03-29 23:33:52] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:33:54] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:33:54] Request completed in 1396.7907428741455ms
+[2022-03-29 23:33:54] Request received from: 127.0.0.1 at port: 64311
+[2022-03-29 23:33:54] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:33:54] HTTPS Connection request
+[2022-03-29 23:34:20] Request received from: 127.0.0.1 at port: 64314
+[2022-03-29 23:34:20] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:34:20] Cache hit, fetching from cache
+[2022-03-29 23:34:20] Request received from: 127.0.0.1 at port: 64315
+[2022-03-29 23:34:20] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:34:20] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:34:20] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:34:20] HTTPS Connection request
+[2022-03-29 23:34:21] Request received from: 127.0.0.1 at port: 64317
+[2022-03-29 23:34:21] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:34:21] HTTPS Connection request
+[2022-03-29 23:34:23] Request received from: 127.0.0.1 at port: 64319
+[2022-03-29 23:34:23] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:34:23] Cache hit, fetching from cache
+[2022-03-29 23:34:23] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:34:23] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:34:37] Request received from: 127.0.0.1 at port: 64320
+[2022-03-29 23:34:37] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:34:37] Cache hit, fetching from cache
+[2022-03-29 23:34:37] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:34:37] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:34:51] Request received from: 127.0.0.1 at port: 64321
+[2022-03-29 23:34:51] Could Not Start Program:list index out of range
+[2022-03-29 23:34:51] Request received from: 127.0.0.1 at port: 64322
+[2022-03-29 23:34:51] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:34:51] HTTPS Connection request
+[2022-03-29 23:34:54] Request received from: 127.0.0.1 at port: 64324
+[2022-03-29 23:34:54] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:34:54] HTTPS Connection request
+[2022-03-29 23:35:22] Request received from: 127.0.0.1 at port: 64326
+[2022-03-29 23:35:22] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:35:22] HTTPS Connection request
+[2022-03-29 23:35:41] Request received from: 127.0.0.1 at port: 64328
+[2022-03-29 23:35:41] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_dl.html HTTP/1.1
+[2022-03-29 23:35:42] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_dl.html
+[2022-03-29 23:35:42] Request completed in 1140.305519104004ms
+[2022-03-29 23:35:46] Request received from: 127.0.0.1 at port: 64330
+[2022-03-29 23:35:46] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_dl.html HTTP/1.1
+[2022-03-29 23:35:46] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_dl.html
+[2022-03-29 23:35:46] Request completed in 638.6682987213135ms
+[2022-03-29 23:35:48] Request received from: 127.0.0.1 at port: 64332
+[2022-03-29 23:35:48] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_dl.html HTTP/1.1
+[2022-03-29 23:35:48] Cache hit, fetching from cache
+[2022-03-29 23:35:48] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_dl.html
+[2022-03-29 23:35:48] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:36:06] Request received from: 127.0.0.1 at port: 64339
+[2022-03-29 23:36:06] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:36:06] HTTPS Connection request
+[2022-03-29 23:37:45] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:37:53]    
+
+Starting Server
+
+
+[2022-03-29 23:37:53] Initializing socket. Done.
+[2022-03-29 23:37:53] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:37:53] Server started successfully at [8080]
+[2022-03-29 23:37:53] Request received from: 127.0.0.1 at port: 64365
+[2022-03-29 23:37:53] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:37:53] HTTPS Connection request
+[2022-03-29 23:37:53] Request received from: 127.0.0.1 at port: 64367
+[2022-03-29 23:37:53] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:37:57] Request received from: 127.0.0.1 at port: 64368
+[2022-03-29 23:37:57] Request received from: 127.0.0.1 at port: 64369
+[2022-03-29 23:37:57] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:37:57] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:37:57] Request received from: 127.0.0.1 at port: 64371
+[2022-03-29 23:37:57] Request Method: GET Url: http://example.com/favicon.ico HTTP/1.1
+[2022-03-29 23:37:58] Response Sent to Browser! http://example.com/
+[2022-03-29 23:37:58] Request completed in 510.8518600463867ms
+[2022-03-29 23:37:58] Response Sent to Browser! http://example.com/favicon.ico
+[2022-03-29 23:37:58] Request completed in 501.31702423095703ms
+[2022-03-29 23:38:01] Request received from: 127.0.0.1 at port: 64375
+[2022-03-29 23:38:01] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:02] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:02] Request completed in 496.4642524719238ms
+[2022-03-29 23:38:03] Request received from: 127.0.0.1 at port: 64377
+[2022-03-29 23:38:03] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:04] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:04] Request completed in 587.1858596801758ms
+[2022-03-29 23:38:06] Request received from: 127.0.0.1 at port: 64379
+[2022-03-29 23:38:06] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:06] Cache hit, fetching from cache
+[2022-03-29 23:38:06] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:06] Request for http://example.com/ handled from cache in 22.796630859375ms
+[2022-03-29 23:38:07] Request received from: 127.0.0.1 at port: 64380
+[2022-03-29 23:38:07] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:38:07] HTTPS Connection request
+[2022-03-29 23:38:08] Request received from: 127.0.0.1 at port: 64382
+[2022-03-29 23:38:08] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:38:11] Request received from: 127.0.0.1 at port: 64383
+[2022-03-29 23:38:11] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:38:11] Request received from: 127.0.0.1 at port: 64384
+[2022-03-29 23:38:11] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:38:11] HTTPS Connection request
+[2022-03-29 23:38:14] Request received from: 127.0.0.1 at port: 64386
+[2022-03-29 23:38:14] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:14] Cache hit, fetching from cache
+[2022-03-29 23:38:14] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:14] Request for http://example.com/ handled from cache in 48.77638816833496ms
+[2022-03-29 23:38:19] Request received from: 127.0.0.1 at port: 64389
+[2022-03-29 23:38:19] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:19] Cache hit, fetching from cache
+[2022-03-29 23:38:19] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:19] Request for http://example.com/ handled from cache in 30.484676361083984ms
+[2022-03-29 23:38:21] Request received from: 127.0.0.1 at port: 64390
+[2022-03-29 23:38:21] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-29 23:38:21] Cache hit, fetching from cache
+[2022-03-29 23:38:21] Response Sent to Browser! http://example.com/
+[2022-03-29 23:38:21] Request for http://example.com/ handled from cache in 28.154850006103516ms
+[2022-03-29 23:38:51] Request received from: 127.0.0.1 at port: 64391
+[2022-03-29 23:38:51] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:38:51] HTTPS Connection request
+[2022-03-29 23:38:51] Request received from: 127.0.0.1 at port: 64393
+[2022-03-29 23:38:51] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:38:54] Request received from: 127.0.0.1 at port: 64394
+[2022-03-29 23:38:54] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:38:54] Request received from: 127.0.0.1 at port: 64395
+[2022-03-29 23:38:54] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:38:54] Request received from: 127.0.0.1 at port: 64396
+[2022-03-29 23:38:54] HTTPS Connection request
+[2022-03-29 23:38:54] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:38:54] HTTPS Connection request
+[2022-03-29 23:38:54] Request received from: 127.0.0.1 at port: 64399
+[2022-03-29 23:38:54] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:38:54] Request received from: 127.0.0.1 at port: 64400
+[2022-03-29 23:38:54] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:38:55] Request received from: 127.0.0.1 at port: 64401
+[2022-03-29 23:38:55] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:38:55] Request received from: 127.0.0.1 at port: 64402
+[2022-03-29 23:38:55] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:38:57] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:38:57] Request completed in 1344.3810939788818ms
+[2022-03-29 23:39:00] Request received from: 127.0.0.1 at port: 64406
+[2022-03-29 23:39:00] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:39:00] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:39:00] Request completed in 550.4419803619385ms
+[2022-03-29 23:39:02] Request received from: 127.0.0.1 at port: 64408
+[2022-03-29 23:39:02] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:39:02] Cache hit, fetching from cache
+[2022-03-29 23:39:02] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:39:02] Request for http://www.testingmcafeesites.com/ handled from cache in 35.77017784118652ms
+[2022-03-29 23:39:41] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:39:43]    
+
+Starting Server
+
+
+[2022-03-29 23:39:43] Initializing socket. Done.
+[2022-03-29 23:39:43] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:39:43] Server started successfully at [8080]
+[2022-03-29 23:39:46] Request received from: 127.0.0.1 at port: 64417
+[2022-03-29 23:39:46] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:39:46] HTTPS Connection request
+[2022-03-29 23:39:46] Request received from: 127.0.0.1 at port: 64419
+[2022-03-29 23:39:46] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:39:47] Request received from: 127.0.0.1 at port: 64420
+[2022-03-29 23:39:47] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:39:47] Request received from: 127.0.0.1 at port: 64422
+[2022-03-29 23:39:48] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:39:48] Request completed in 1062.3550415039062ms
+[2022-03-29 23:39:49] Request received from: 127.0.0.1 at port: 64423
+[2022-03-29 23:39:49] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:39:49] HTTPS Connection request
+[2022-03-29 23:39:50] Request received from: 127.0.0.1 at port: 64425
+[2022-03-29 23:39:50] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:39:50] HTTPS Connection request
+[2022-03-29 23:39:50] Request received from: 127.0.0.1 at port: 64427
+[2022-03-29 23:39:50] Request received from: 127.0.0.1 at port: 64428
+[2022-03-29 23:39:50] Request received from: 127.0.0.1 at port: 64429
+[2022-03-29 23:39:50] Request Method: CONNECT Url: adservice.google.com:443 HTTP/1.1
+[2022-03-29 23:39:50] HTTPS Connection request
+[2022-03-29 23:39:51] Request received from: 127.0.0.1 at port: 64431
+[2022-03-29 23:39:51] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:39:52] Could Not Start Program:list index out of range
+[2022-03-29 23:39:53] Request received from: 127.0.0.1 at port: 64436
+[2022-03-29 23:39:53] Request received from: 127.0.0.1 at port: 64437
+[2022-03-29 23:39:53] Request Method: CONNECT Url: adservice.google.co.in:443 HTTP/1.1
+[2022-03-29 23:39:53] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:39:53] HTTPS Connection request
+[2022-03-29 23:39:53] Request received from: 127.0.0.1 at port: 64439
+[2022-03-29 23:39:53] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:39:55] Could Not Start Program:list index out of range
+[2022-03-29 23:39:55] Could Not Start Program:list index out of range
+[2022-03-29 23:39:55] Request received from: 127.0.0.1 at port: 64440
+[2022-03-29 23:39:55] Request received from: 127.0.0.1 at port: 64441
+[2022-03-29 23:39:55] Request Method: CONNECT Url: googleads.g.doubleclick.net:443 HTTP/1.1
+[2022-03-29 23:39:55] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:39:55] HTTPS Connection request
+[2022-03-29 23:39:56] Request received from: 127.0.0.1 at port: 64443
+[2022-03-29 23:39:56] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:40:15] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:40:18]    
+
+Starting Server
+
+
+[2022-03-29 23:40:18] Initializing socket. Done.
+[2022-03-29 23:40:18] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:40:18] Server started successfully at [8080]
+[2022-03-29 23:40:18] Request received from: 127.0.0.1 at port: 64449
+[2022-03-29 23:40:18] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:40:18] HTTPS Connection request
+[2022-03-29 23:40:18] Request received from: 127.0.0.1 at port: 64450
+[2022-03-29 23:40:18] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:40:18] HTTPS Connection request
+[2022-03-29 23:40:20] Request received from: 127.0.0.1 at port: 64457
+[2022-03-29 23:40:20] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:40:20] HTTPS Connection request
+[2022-03-29 23:40:20] Request received from: 127.0.0.1 at port: 64459
+[2022-03-29 23:40:20] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:40:21] HTTPS Connection request
+[2022-03-29 23:40:23] Request received from: 127.0.0.1 at port: 64461
+[2022-03-29 23:40:23] Request received from: 127.0.0.1 at port: 64462
+[2022-03-29 23:40:23] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:40:23] HTTPS Connection request
+[2022-03-29 23:40:23] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:40:23] HTTPS Connection request
+[2022-03-29 23:40:50] Request received from: 127.0.0.1 at port: 64467
+[2022-03-29 23:40:50] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:40:50] HTTPS Connection request
+[2022-03-29 23:41:30] Request received from: 127.0.0.1 at port: 64469
+[2022-03-29 23:41:30] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:41:30] HTTPS Connection request
+[2022-03-29 23:41:31] Request received from: 127.0.0.1 at port: 64471
+[2022-03-29 23:41:31] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:41:31] HTTPS Connection request
+[2022-03-29 23:42:30] Request received from: 127.0.0.1 at port: 64473
+[2022-03-29 23:42:30] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:42:30] HTTPS Connection request
+[2022-03-29 23:42:31] Request received from: 127.0.0.1 at port: 64475
+[2022-03-29 23:42:31] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:42:31] HTTPS Connection request
+[2022-03-29 23:42:54] Request received from: 127.0.0.1 at port: 64479
+[2022-03-29 23:42:54] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:42:54] HTTPS Connection request
+[2022-03-29 23:44:10] Request received from: 127.0.0.1 at port: 64483
+[2022-03-29 23:44:10] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:44:10] HTTPS Connection request
+[2022-03-29 23:44:11] Request received from: 127.0.0.1 at port: 64485
+[2022-03-29 23:44:11] Request Method: CONNECT Url: shavar.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:44:11] HTTPS Connection request
+[2022-03-29 23:45:36] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:45:39]    
+
+Starting Server
+
+
+[2022-03-29 23:45:39] Initializing socket. Done.
+[2022-03-29 23:45:39] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:45:39] Server started successfully at [8080]
+[2022-03-29 23:45:41] Request received from: 127.0.0.1 at port: 64492
+[2022-03-29 23:45:41] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:45:41] HTTPS Connection request
+[2022-03-29 23:45:41] Request received from: 127.0.0.1 at port: 64494
+[2022-03-29 23:45:41] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:45:41] HTTPS Connection request
+[2022-03-29 23:45:42] Request received from: 127.0.0.1 at port: 64496
+[2022-03-29 23:45:42] Request Method: CONNECT Url: apis.google.com:443 HTTP/1.1
+[2022-03-29 23:45:42] HTTPS Connection request
+[2022-03-29 23:45:42] Request received from: 127.0.0.1 at port: 64498
+[2022-03-29 23:45:42] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:48:53]    
+
+Starting Server
+
+
+[2022-03-29 23:48:53] Initializing socket. Done.
+[2022-03-29 23:48:53] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:48:53] Server started successfully at [8080]
+[2022-03-29 23:49:05] Request received from: 127.0.0.1 at port: 64515
+[2022-03-29 23:49:05] Request Method: GET Url: http://detectportal.firefox.com/canonical.html HTTP/1.1
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64517
+[2022-03-29 23:49:06] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64518
+[2022-03-29 23:49:06] HTTPS Connection request
+[2022-03-29 23:49:06] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:49:06] Response Sent to Browser! http://detectportal.firefox.com/canonical.html
+[2022-03-29 23:49:06] HTTPS Connection request
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64520
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64521
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64526
+[2022-03-29 23:49:06] Request completed in 178.62677574157715ms
+[2022-03-29 23:49:06] Could Not Start Program:'utf-8' codec can't decode byte 0xda in position 383: invalid continuation byte
+[2022-03-29 23:49:06] Request Method: GET Url: http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1
+[2022-03-29 23:49:06] HTTPS Connection request
+[2022-03-29 23:49:06] Response Sent to Browser! http://detectportal.firefox.com/success.txt?ipv4
+[2022-03-29 23:49:06] Request received from: 127.0.0.1 at port: 64530
+[2022-03-29 23:49:06] Request completed in 172.67560958862305ms
+[2022-03-29 23:49:06] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:49:07] HTTPS Connection request
+[2022-03-29 23:49:07] Request received from: 127.0.0.1 at port: 64531
+[2022-03-29 23:49:07] Request received from: 127.0.0.1 at port: 64533
+[2022-03-29 23:49:07] Request received from: 127.0.0.1 at port: 64534
+[2022-03-29 23:49:07] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:49:07] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:49:07] HTTPS Connection request
+[2022-03-29 23:49:07] HTTPS Connection request
+[2022-03-29 23:49:07] Request Method: CONNECT Url: safebrowsing.googleapis.com:443 HTTP/1.1
+[2022-03-29 23:49:07] HTTPS Connection request
+[2022-03-29 23:49:07] Request received from: 127.0.0.1 at port: 64541
+[2022-03-29 23:49:07] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:49:07] Request received from: 127.0.0.1 at port: 64545
+[2022-03-29 23:49:08] Request received from: 127.0.0.1 at port: 64546
+[2022-03-29 23:49:08] Request received from: 127.0.0.1 at port: 64547
+[2022-03-29 23:49:08] Request received from: 127.0.0.1 at port: 64548
+[2022-03-29 23:49:08] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:49:08] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:49:08] HTTPS Connection request
+[2022-03-29 23:49:08] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:49:08] Request received from: 127.0.0.1 at port: 64549
+[2022-03-29 23:49:08] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:08] HTTPS Connection request
+[2022-03-29 23:49:08] Request Method: CONNECT Url: www.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:49:08] HTTPS Connection request
+[2022-03-29 23:49:13] Request received from: 127.0.0.1 at port: 64555
+[2022-03-29 23:49:13] Request Method: CONNECT Url: shavar.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:49:13] HTTPS Connection request
+[2022-03-29 23:49:14] Request received from: 127.0.0.1 at port: 64557
+[2022-03-29 23:49:14] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:49:15] Request received from: 127.0.0.1 at port: 64558
+[2022-03-29 23:49:15] Request received from: 127.0.0.1 at port: 64559
+[2022-03-29 23:49:15] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:49:15] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:49:15] HTTPS Connection request
+[2022-03-29 23:49:16] Request received from: 127.0.0.1 at port: 64561
+[2022-03-29 23:49:16] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:18] Request received from: 127.0.0.1 at port: 64562
+[2022-03-29 23:49:18] Request received from: 127.0.0.1 at port: 64563
+[2022-03-29 23:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:18] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:49:18] HTTPS Connection request
+[2022-03-29 23:49:19] Request received from: 127.0.0.1 at port: 64565
+[2022-03-29 23:49:20] Request received from: 127.0.0.1 at port: 64568
+[2022-03-29 23:49:20] Request Method: CONNECT Url: adservice.google.com:443 HTTP/1.1
+[2022-03-29 23:49:20] HTTPS Connection request
+[2022-03-29 23:49:20] Request received from: 127.0.0.1 at port: 64570
+[2022-03-29 23:49:20] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:22] Request received from: 127.0.0.1 at port: 64571
+[2022-03-29 23:49:22] Request Method: CONNECT Url: adservice.google.co.in:443 HTTP/1.1
+[2022-03-29 23:49:22] Request received from: 127.0.0.1 at port: 64572
+[2022-03-29 23:49:22] HTTPS Connection request
+[2022-03-29 23:49:22] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:23] Request received from: 127.0.0.1 at port: 64574
+[2022-03-29 23:49:23] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64575
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64576
+[2022-03-29 23:49:24] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:49:24] HTTPS Connection request
+[2022-03-29 23:49:24] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64578
+[2022-03-29 23:49:24] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:49:24] HTTPS Connection request
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64580
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64581
+[2022-03-29 23:49:24] Request Method: CONNECT Url: googleads.g.doubleclick.net:443 HTTP/1.1
+[2022-03-29 23:49:24] HTTPS Connection request
+[2022-03-29 23:49:24] Request Method: CONNECT Url: www.youtube.com:443 HTTP/1.1
+[2022-03-29 23:49:24] HTTPS Connection request
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64584
+[2022-03-29 23:49:24] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:24] Could Not Start Program:list index out of range
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64585
+[2022-03-29 23:49:24] Request received from: 127.0.0.1 at port: 64586
+[2022-03-29 23:49:24] Request Method: CONNECT Url: i.ytimg.com:443 HTTP/1.1
+[2022-03-29 23:49:24] HTTPS Connection request
+[2022-03-29 23:49:25] Request received from: 127.0.0.1 at port: 64588
+[2022-03-29 23:49:25] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:27] Request received from: 127.0.0.1 at port: 64591
+[2022-03-29 23:49:27] Request received from: 127.0.0.1 at port: 64592
+[2022-03-29 23:49:27] Request received from: 127.0.0.1 at port: 64593
+[2022-03-29 23:49:27] Request Method: CONNECT Url: fonts.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:49:27] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:27] Request Method: CONNECT Url: accounts.google.com:443 HTTP/1.1
+[2022-03-29 23:49:27] HTTPS Connection request
+[2022-03-29 23:49:27] HTTPS Connection request
+[2022-03-29 23:49:27] Request received from: 127.0.0.1 at port: 64596
+[2022-03-29 23:49:27] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:30] Request received from: 127.0.0.1 at port: 64599
+[2022-03-29 23:49:30] Request received from: 127.0.0.1 at port: 64600
+[2022-03-29 23:49:30] Request received from: 127.0.0.1 at port: 64601
+[2022-03-29 23:49:30] Request Method: CONNECT Url: fonts.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:49:30] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:30] Request Method: CONNECT Url: fonts.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:49:30] HTTPS Connection request
+[2022-03-29 23:49:30] HTTPS Connection request
+[2022-03-29 23:49:30] Could Not Start Program:list index out of range
+[2022-03-29 23:49:30] Request received from: 127.0.0.1 at port: 64604
+[2022-03-29 23:49:30] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:49:30] HTTPS Connection request
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64606
+[2022-03-29 23:49:31] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64607
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64608
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64609
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64610
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64611
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64612
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64613
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] Request Method: CONNECT Url: yt3.ggpht.com:443 HTTP/1.1
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] Request Method: CONNECT Url: www.google.co.in:443 HTTP/1.1
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] HTTPS Connection request
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64621
+[2022-03-29 23:49:31] Request received from: 127.0.0.1 at port: 64622
+[2022-03-29 23:49:32] Request received from: 127.0.0.1 at port: 64623
+[2022-03-29 23:49:32] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:32] Request received from: 127.0.0.1 at port: 64624
+[2022-03-29 23:49:32] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:32] Request received from: 127.0.0.1 at port: 64625
+[2022-03-29 23:49:32] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:32] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:32] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64626
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64627
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64628
+[2022-03-29 23:49:34] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:34] Request Method: CONNECT Url: jnn-pa.googleapis.com:443 HTTP/1.1
+[2022-03-29 23:49:34] Request Method: CONNECT Url: static.doubleclick.net:443 HTTP/1.1
+[2022-03-29 23:49:34] HTTPS Connection request
+[2022-03-29 23:49:34] HTTPS Connection request
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64631
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64632
+[2022-03-29 23:49:34] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:34] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:49:34] Request received from: 127.0.0.1 at port: 64633
+[2022-03-29 23:49:34] Request Method: CONNECT Url: fonts.googleapis.com:443 HTTP/1.1
+[2022-03-29 23:49:35] Request received from: 127.0.0.1 at port: 64634
+[2022-03-29 23:49:35] HTTPS Connection request
+[2022-03-29 23:49:40] Could Not Start Program:list index out of range
+[2022-03-29 23:50:21] Request received from: 127.0.0.1 at port: 64656
+[2022-03-29 23:50:21] Request received from: 127.0.0.1 at port: 64657
+[2022-03-29 23:50:21] Request Method: GET Url: http://detectportal.firefox.com/canonical.html HTTP/1.1
+[2022-03-29 23:50:21] Request received from: 127.0.0.1 at port: 64658
+[2022-03-29 23:50:21] Request received from: 127.0.0.1 at port: 64659
+[2022-03-29 23:50:21] Cache hit, fetching from cache
+[2022-03-29 23:50:21] Request received from: 127.0.0.1 at port: 64660
+[2022-03-29 23:50:21] Response Sent to Browser! http://detectportal.firefox.com/canonical.html
+[2022-03-29 23:50:22] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:50:22] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:50:22] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:50:22] Request Method: CONNECT Url: content-signature-2.cdn.mozilla.net:443 HTTP/1.1
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] Request Method: GET Url: http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] Cache hit, fetching from cache
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64664
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64666
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64670
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64671
+[2022-03-29 23:50:22] Response Sent to Browser! http://detectportal.firefox.com/success.txt?ipv4
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64672
+[2022-03-29 23:50:22] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64673
+[2022-03-29 23:50:22] Request received from: 127.0.0.1 at port: 64674
+[2022-03-29 23:50:22] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:50:22] Could Not Start Program:'utf-8' codec can't decode byte 0xda in position 383: invalid continuation byte
+[2022-03-29 23:50:22] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:50:22] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:50:22] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:50:22] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:22] HTTPS Connection request
+[2022-03-29 23:50:23] Request received from: 127.0.0.1 at port: 64680
+[2022-03-29 23:50:23] Request received from: 127.0.0.1 at port: 64681
+[2022-03-29 23:50:23] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:50:23] Request received from: 127.0.0.1 at port: 64682
+[2022-03-29 23:50:23] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:50:23] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-29 23:50:23] Request received from: 127.0.0.1 at port: 64683
+[2022-03-29 23:50:23] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:50:28] Could Not Start Program:list index out of range
+[2022-03-29 23:50:36] Request received from: 127.0.0.1 at port: 64692
+[2022-03-29 23:50:36] Request received from: 127.0.0.1 at port: 64693
+[2022-03-29 23:50:36] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:50:36] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:50:37] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:50:37] Request completed in 1353.0101776123047ms
+[2022-03-29 23:50:37] Request received from: 127.0.0.1 at port: 64695
+[2022-03-29 23:50:37] Could Not Start Program:list index out of range
+[2022-03-29 23:50:43] Request received from: 127.0.0.1 at port: 64698
+[2022-03-29 23:50:43] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:50:44] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:50:44] Request completed in 584.9993228912354ms
+[2022-03-29 23:50:47] Request received from: 127.0.0.1 at port: 64700
+[2022-03-29 23:50:47] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:50:47] Cache hit, fetching from cache
+[2022-03-29 23:50:47] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:50:47] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:50:54] Request received from: 127.0.0.1 at port: 64701
+[2022-03-29 23:50:54] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:50:54] Cache hit, fetching from cache
+[2022-03-29 23:50:54] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:50:54] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:50:57] Request received from: 127.0.0.1 at port: 64702
+[2022-03-29 23:50:57] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:50:57] Cache hit, fetching from cache
+[2022-03-29 23:50:57] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:50:57] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:51:02] Request received from: 127.0.0.1 at port: 64703
+[2022-03-29 23:51:02] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-29 23:51:02] Cache hit, fetching from cache
+[2022-03-29 23:51:02] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-29 23:51:02] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:51:12] Request received from: 127.0.0.1 at port: 64704
+[2022-03-29 23:51:12] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:51:13] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:51:13] Request completed in 1469.0008163452148ms
+[2022-03-29 23:51:15] Request received from: 127.0.0.1 at port: 64706
+[2022-03-29 23:51:15] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:51:16] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:51:16] Request completed in 755.5208206176758ms
+[2022-03-29 23:51:19] Request received from: 127.0.0.1 at port: 64708
+[2022-03-29 23:51:19] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:51:19] Cache hit, fetching from cache
+[2022-03-29 23:51:19] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:51:19] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:51:21] Request received from: 127.0.0.1 at port: 64709
+[2022-03-29 23:51:21] Request Method: GET Url: http://detectportal.firefox.com/canonical.html HTTP/1.1
+[2022-03-29 23:51:21] Cache hit, fetching from cache
+[2022-03-29 23:51:21] Request received from: 127.0.0.1 at port: 64710
+[2022-03-29 23:51:21] Response Sent to Browser! http://detectportal.firefox.com/canonical.html
+[2022-03-29 23:51:21] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:51:21] Request Method: GET Url: http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1
+[2022-03-29 23:51:22] Cache hit, fetching from cache
+[2022-03-29 23:51:22] Response Sent to Browser! http://detectportal.firefox.com/success.txt?ipv4
+[2022-03-29 23:51:22] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:52:01] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:52:04]    
+
+Starting Server
+
+
+[2022-03-29 23:52:04] Initializing socket. Done.
+[2022-03-29 23:52:04] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:52:04] Server started successfully at [8080]
+[2022-03-29 23:52:06] Request received from: 127.0.0.1 at port: 64721
+[2022-03-29 23:52:06] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:52:06] HTTPS Connection request
+[2022-03-29 23:52:06] Request received from: 127.0.0.1 at port: 64723
+[2022-03-29 23:52:06] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:52:07] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:52:07] Request completed in 1177.0472526550293ms
+[2022-03-29 23:52:09] Request received from: 127.0.0.1 at port: 64725
+[2022-03-29 23:52:09] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:52:09] Cache hit, fetching from cache
+[2022-03-29 23:52:09] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:52:09] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:52:15] Request received from: 127.0.0.1 at port: 64728
+[2022-03-29 23:52:15] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:52:15] Cache hit, fetching from cache
+[2022-03-29 23:52:15] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:52:15] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:52:21] Request received from: 127.0.0.1 at port: 64731
+[2022-03-29 23:52:21] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:52:21] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:52:21] Request completed in 590.9938812255859ms
+[2022-03-29 23:52:23] Request received from: 127.0.0.1 at port: 64733
+[2022-03-29 23:52:23] Request Method: GET Url: http://www.testingmcafeesites.com/index.html HTTP/1.1
+[2022-03-29 23:52:23] Cache hit, fetching from cache
+[2022-03-29 23:52:23] Response Sent to Browser! http://www.testingmcafeesites.com/index.html
+[2022-03-29 23:52:23] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:52:24] Request received from: 127.0.0.1 at port: 64734
+[2022-03-29 23:52:24] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_be.html HTTP/1.1
+[2022-03-29 23:52:24] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_be.html
+[2022-03-29 23:52:24] Request completed in 589.9960994720459ms
+[2022-03-29 23:52:27] Request received from: 127.0.0.1 at port: 64736
+[2022-03-29 23:52:27] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_be.html HTTP/1.1
+[2022-03-29 23:52:27] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_be.html
+[2022-03-29 23:52:27] Request completed in 608.004093170166ms
+[2022-03-29 23:52:28] Request received from: 127.0.0.1 at port: 64738
+[2022-03-29 23:52:28] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_be.html HTTP/1.1
+[2022-03-29 23:52:28] Cache hit, fetching from cache
+[2022-03-29 23:52:28] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_be.html
+[2022-03-29 23:52:28] Could Not Open Socket:[WinError 10038] An operation was attempted on something that is not a socket
+[2022-03-29 23:55:21] Request received from: 127.0.0.1 at port: 64746
+[2022-03-29 23:55:21] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:55:21] HTTPS Connection request
+[2022-03-29 23:55:49] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-29 23:55:51]    
+
+Starting Server
+
+
+[2022-03-29 23:55:51] Initializing socket. Done.
+[2022-03-29 23:55:51] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-29 23:55:51] Server started successfully at [8080]
+[2022-03-29 23:55:54] Request received from: 127.0.0.1 at port: 64753
+[2022-03-29 23:55:54] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-29 23:55:54] HTTPS Connection request
+[2022-03-29 23:55:54] Request received from: 127.0.0.1 at port: 64755
+[2022-03-29 23:55:54] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_be.html HTTP/1.1
+[2022-03-29 23:55:54] Request received from: 127.0.0.1 at port: 64756
+[2022-03-29 23:55:54] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:55:55] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_be.html
+[2022-03-29 23:55:55] Request completed in 1362.5867366790771ms
+[2022-03-29 23:55:57] Request received from: 127.0.0.1 at port: 64760
+[2022-03-29 23:55:57] Request received from: 127.0.0.1 at port: 64761
+[2022-03-29 23:55:57] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-29 23:55:57] Request Method: GET Url: http://www.testingmcafeesites.com/testcat_be.html HTTP/1.1
+[2022-03-29 23:55:57] Cache hit, fetching from cache
+[2022-03-29 23:55:57] Response Sent to Browser! http://www.testingmcafeesites.com/testcat_be.html
+[2022-03-29 23:55:57] Request for http://www.testingmcafeesites.com/testcat_be.html handled from cache in 30.999422073364258ms
+[2022-03-29 23:56:05] Request received from: 127.0.0.1 at port: 64762
+[2022-03-29 23:56:05] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-29 23:56:05] HTTPS Connection request
+[2022-03-29 23:56:05] Request received from: 127.0.0.1 at port: 64764
+[2022-03-29 23:56:05] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:07] Request received from: 127.0.0.1 at port: 64765
+[2022-03-29 23:56:07] Request received from: 127.0.0.1 at port: 64766
+[2022-03-29 23:56:07] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-29 23:56:07] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:07] HTTPS Connection request
+[2022-03-29 23:56:07] Request received from: 127.0.0.1 at port: 64768
+[2022-03-29 23:56:07] Request Method: CONNECT Url: www.gstatic.com:443 HTTP/1.1
+[2022-03-29 23:56:07] HTTPS Connection request
+[2022-03-29 23:56:08] Request received from: 127.0.0.1 at port: 64771
+[2022-03-29 23:56:09] Request received from: 127.0.0.1 at port: 64774
+[2022-03-29 23:56:09] Request Method: CONNECT Url: adservice.google.com:443 HTTP/1.1
+[2022-03-29 23:56:09] HTTPS Connection request
+[2022-03-29 23:56:09] Request received from: 127.0.0.1 at port: 64776
+[2022-03-29 23:56:09] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:11] Request received from: 127.0.0.1 at port: 64777
+[2022-03-29 23:56:11] Request received from: 127.0.0.1 at port: 64778
+[2022-03-29 23:56:11] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:11] Request Method: CONNECT Url: adservice.google.co.in:443 HTTP/1.1
+[2022-03-29 23:56:11] HTTPS Connection request
+[2022-03-29 23:56:12] Request received from: 127.0.0.1 at port: 64780
+[2022-03-29 23:56:12] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:14] Could Not Start Program:list index out of range
+[2022-03-29 23:56:14] Request received from: 127.0.0.1 at port: 64781
+[2022-03-29 23:56:14] Request received from: 127.0.0.1 at port: 64782
+[2022-03-29 23:56:14] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-29 23:56:14] Request Method: CONNECT Url: googleads.g.doubleclick.net:443 HTTP/1.1
+[2022-03-29 23:56:14] HTTPS Connection request
+[2022-03-29 23:56:14] Request received from: 127.0.0.1 at port: 64784
+[2022-03-29 23:56:14] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:00:08] Request received from: 127.0.0.1 at port: 64853
+[2022-03-30 00:00:08] Request received from: 127.0.0.1 at port: 64854
+[2022-03-30 00:00:08] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-30 00:00:08] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:00:08] HTTPS Connection request
+[2022-03-30 00:05:57] Request received from: 127.0.0.1 at port: 64989
+[2022-03-30 00:05:57] Request Method: CONNECT Url: firefox.settings.services.mozilla.com:443 HTTP/1.1
+[2022-03-30 00:05:57] HTTPS Connection request
+[2022-03-30 00:10:21] Request received from: 127.0.0.1 at port: 63620
+[2022-03-30 00:10:21] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-30 00:10:21] HTTPS Connection request
+[2022-03-30 00:10:22] Request received from: 127.0.0.1 at port: 63622
+[2022-03-30 00:10:22] Could Not Start Program:'utf-8' codec can't decode byte 0xda in position 383: invalid continuation byte
+[2022-03-30 00:19:19] Request received from: 127.0.0.1 at port: 63812
+[2022-03-30 00:19:19] Request Method: CONNECT Url: safebrowsing.googleapis.com:443 HTTP/1.1
+[2022-03-30 00:19:19] Request received from: 127.0.0.1 at port: 63813
+[2022-03-30 00:19:19] Could Not Start Program:'utf-8' codec can't decode byte 0xda in position 383: invalid continuation byte
+[2022-03-30 00:19:19] HTTPS Connection request
+[2022-03-30 00:19:19] Request received from: 127.0.0.1 at port: 63815
+[2022-03-30 00:19:19] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:25:21] Request received from: 127.0.0.1 at port: 61979
+[2022-03-30 00:25:21] Request received from: 127.0.0.1 at port: 61980
+[2022-03-30 00:25:21] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:25:21] Request Method: CONNECT Url: contile.services.mozilla.com:443 HTTP/1.1
+[2022-03-30 00:25:22] HTTPS Connection request
+[2022-03-30 00:38:44] Request received from: 127.0.0.1 at port: 62048
+[2022-03-30 00:38:44] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-30 00:38:44] HTTPS Connection request
+[2022-03-30 00:38:44] Request received from: 127.0.0.1 at port: 62050
+[2022-03-30 00:38:44] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:38:47] Request received from: 127.0.0.1 at port: 62051
+[2022-03-30 00:38:47] Request received from: 127.0.0.1 at port: 62052
+[2022-03-30 00:38:47] Request Method: CONNECT Url: www.google.com:443 HTTP/1.1
+[2022-03-30 00:38:47] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:38:47] HTTPS Connection request
+[2022-03-30 00:49:08] KeyboardInterrupt (CTRL+C) Force-Quit!
+[2022-03-30 00:49:17]    
+
+Starting Server
+
+
+[2022-03-30 00:49:17] Initializing socket. Done.
+[2022-03-30 00:49:17] Initializing Sockets [ready] Binding Sockets [ready] Listening...
+[2022-03-30 00:49:17] Server started successfully at [8080]
+[2022-03-30 00:49:17] Request received from: 127.0.0.1 at port: 62164
+[2022-03-30 00:49:17] Request Method: CONNECT Url: push.services.mozilla.com:443 HTTP/1.1
+[2022-03-30 00:49:17] HTTPS Connection request
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62165
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62167
+[2022-03-30 00:49:18] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62166
+[2022-03-30 00:49:18] HTTPS Connection request
+[2022-03-30 00:49:18] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62168
+[2022-03-30 00:49:18] HTTPS Connection request
+[2022-03-30 00:49:18] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62162
+[2022-03-30 00:49:18] HTTPS Connection request
+[2022-03-30 00:49:18] Request Method: CONNECT Url: incoming.telemetry.mozilla.org:443 HTTP/1.1
+[2022-03-30 00:49:18] HTTPS Connection request
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62180
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62181
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62182
+[2022-03-30 00:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62183
+[2022-03-30 00:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62174
+[2022-03-30 00:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xa6 in position 390: invalid start byte
+[2022-03-30 00:49:18] Request Method: GET Url: http://detectportal.firefox.com/canonical.html HTTP/1.1
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62185
+[2022-03-30 00:49:18] Response Sent to Browser! http://detectportal.firefox.com/canonical.html
+[2022-03-30 00:49:18] Request completed in 88.99998664855957ms
+[2022-03-30 00:49:18] Request Method: GET Url: http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1
+[2022-03-30 00:49:18] Request received from: 127.0.0.1 at port: 62188
+[2022-03-30 00:49:18] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-30 00:49:18] Response Sent to Browser! http://detectportal.firefox.com/success.txt?ipv4
+[2022-03-30 00:49:18] Request completed in 82.0000171661377ms
+[2022-03-30 00:49:23] Could Not Start Program:list index out of range
+[2022-03-30 00:49:24] Request received from: 127.0.0.1 at port: 62192
+[2022-03-30 00:49:24] Request received from: 127.0.0.1 at port: 62193
+[2022-03-30 00:49:24] Could Not Start Program:'utf-8' codec can't decode byte 0xe4 in position 388: invalid continuation byte
+[2022-03-30 00:49:24] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-30 00:49:24] Response Sent to Browser! http://example.com/
+[2022-03-30 00:49:24] Request completed in 502.0573139190674ms
+[2022-03-30 00:49:26] Request received from: 127.0.0.1 at port: 62197
+[2022-03-30 00:49:26] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-30 00:49:27] Response Sent to Browser! http://example.com/
+[2022-03-30 00:49:27] Request completed in 500.0028610229492ms
+[2022-03-30 00:49:30] Request received from: 127.0.0.1 at port: 62199
+[2022-03-30 00:49:30] Request Method: GET Url: http://example.com/ HTTP/1.1
+[2022-03-30 00:49:30] Cache hit, fetching from cache
+[2022-03-30 00:49:30] Response Sent to Browser! http://example.com/
+[2022-03-30 00:49:30] Request for http://example.com/ handled from cache in 65.00005722045898ms
+[2022-03-30 00:49:33] Request received from: 127.0.0.1 at port: 62200
+[2022-03-30 00:49:33] Request Method: CONNECT Url: safebrowsing.googleapis.com:443 HTTP/1.1
+[2022-03-30 00:49:33] HTTPS Connection request
+[2022-03-30 00:49:33] Request received from: 127.0.0.1 at port: 62202
+[2022-03-30 00:49:33] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:49:38] Request received from: 127.0.0.1 at port: 62203
+[2022-03-30 00:49:38] Request received from: 127.0.0.1 at port: 62204
+[2022-03-30 00:49:38] Could Not Start Program:'utf-8' codec can't decode byte 0xc7 in position 386: invalid continuation byte
+[2022-03-30 00:49:42] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-30 00:49:44] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-30 00:49:44] Request completed in 1452.9993534088135ms
+[2022-03-30 00:49:48] Request received from: 127.0.0.1 at port: 62208
+[2022-03-30 00:49:48] Request Method: GET Url: http://www.testingmcafeesites.com/ HTTP/1.1
+[2022-03-30 00:49:48] Cache hit, fetching from cache
+[2022-03-30 00:49:48] Response Sent to Browser! http://www.testingmcafeesites.com/
+[2022-03-30 00:49:48] Request for http://www.testingmcafeesites.com/ handled from cache in 31.003475189208984ms
